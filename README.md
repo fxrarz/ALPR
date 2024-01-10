@@ -8,6 +8,11 @@ Python based Automatic Number Plate Recognition (ALPR) system.
 
 ## Project Setup
 
+
+```sh
+sudo apt-get install libleptonica-dev tesseract-ocr libtesseract-dev python3-pil tesseract-ocr-eng tesseract-ocr-script-latn
+```
+
 ```sh
 python3 -m venv venv
 ```
